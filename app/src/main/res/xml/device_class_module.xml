@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<devices>
+    <modules>
+        <module id="COMMON" name="com.shellever.plugin.common.Common" args="Context"/>
+    </modules>
+    <functions>
+        <function id="COMMON" name="getDeviceInfo" args=""/>
+    </functions>
+</devices>

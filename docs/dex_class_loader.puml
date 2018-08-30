@@ -1,0 +1,9 @@
+@startuml
+
+abstract class ClassLoader
+class BaseDexClassLoader extends ClassLoader
+class DexClassLoader extends BaseDexClassLoader
+
+class PathClassLoader extends BaseDexClassLoader
+
+@enduml
